@@ -5,6 +5,8 @@ The project was designed a Raspberry pi based women safety device. GPS, GSM, pi 
 
 Keywords- Raspberry Pi, GSM,GPS, Self Defense, Pi camera, Taser,  Sound Sensor,   LCD display, Raspian, Python language.
 
+<h2> Detailed description of project in the PDF document attatched in this repository 'Major Project Document Sneha' </h2>
+
 <h3> Figure 1. Hardware Setup</h3>
 
 ![image](https://github.com/Cosmic1509/Smart-Safety-Device-Using-Raspberry-Pi/assets/82835887/8f501893-9402-4dfb-8c9e-983d2fb33409)
@@ -25,4 +27,3 @@ Keywords- Raspberry Pi, GSM,GPS, Self Defense, Pi camera, Taser,  Sound Sensor, 
 
 ![image](https://github.com/Cosmic1509/Smart-Safety-Device-Using-Raspberry-Pi/assets/82835887/7f93c548-5ddd-4eb0-b85e-1487918d1fb6)
 
-<h2> Detailed description of project in the PDF document attatched in this repository 'Major Project Document Sneha' </h2>
