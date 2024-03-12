@@ -25,4 +25,4 @@ Keywords- Raspberry Pi, GSM,GPS, Self Defense, Pi camera, Taser,  Sound Sensor, 
 
 ![image](https://github.com/Cosmic1509/Smart-Safety-Device-Using-Raspberry-Pi/assets/82835887/7f93c548-5ddd-4eb0-b85e-1487918d1fb6)
 
-<h2> Detailed description of project in the PDF document attatched in this repository </h2>
+<h2> Detailed description of project in the PDF document attatched in this repository 'Major Project Document Sneha' </h2>
